@@ -25,9 +25,6 @@ Thumbs.db
 *.lnk
 *.Zone.Identifier
 
-# Data files (optional)
-data/
-
 # Logs
 *.log
 
